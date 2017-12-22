@@ -13,12 +13,11 @@ nav.breadcrumb li a:after {
   content: " >"; 
 }
 
-  nav.navpage {
-    font-size: 1em;
-    font-family: helvetica;
-    width: 100%;
-
-  }
+nav.navpage {
+  font-size: 1em;
+  font-family: helvetica;
+  width: 100%;
+}
 
 nav.navpage > ul  {
   background: #efefef; 
@@ -37,9 +36,9 @@ nav.navpage  li {
   list-style: none;
 }
 
-  nav.navpage:after {
-    content: ""; clear: both; display: block;
-  }
+nav.navpage:after {
+  content: ""; clear: both; display: block;
+}
 
 nav.navpage  > ul >  li > a  {
     font-weight: bold;
