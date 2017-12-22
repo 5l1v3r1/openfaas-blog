@@ -1,4 +1,4 @@
-BaseUrl= "http://example.com/"
+BaseUrl= ""
 LanguageCode= "en-GB"
 Title= "OpenFaaS Blog"
 paginate = 5
