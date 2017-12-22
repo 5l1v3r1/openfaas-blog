@@ -9,7 +9,7 @@ canonifyurls = true
 [params]
   description = "OpenFaas Blog"
   metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = "images/cover.jpg"
+  cover = "images/logo.png"
   author = "Valère JEANTET"
   authorlocation = "Paris, France"
   authorwebsite = "https://www.openfaas.com"
