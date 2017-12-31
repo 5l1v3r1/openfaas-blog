@@ -34,3 +34,20 @@ canonifyurls = true
   [params.social]
     twitter = "openfaas"
 
+[[menu.main]]
+  name = "Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = -110
+  identifier = "about"
+  url = "/about"
+
+[[menu.main]]
+  name = "Contact"
+  weight = -100
+  identifier = "contact"
+  url = "/contact"
