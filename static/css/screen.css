@@ -147,8 +147,8 @@ table { border-collapse: collapse; border-spacing: 0; }
   font-weight: normal; font-style: normal;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i');
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,300i,400,400i,500,500i,600,600i,700');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:100,200,400,700');
 
 /* Import the font file with the icons in it */
 @font-face {
@@ -253,7 +253,8 @@ html {
 body {
     height: 100%;
     max-height: 100%;
-    font-family: "Source Sans Pro", serif;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
     letter-spacing: 0.01rem;
     font-size: 1.8rem;
     line-height: 1.75em;
@@ -642,7 +643,7 @@ body.nav-opened .nav-cover {
                         opacity 0.3s ease 0.7s;
             transition: transform 0.5s ease,
                         opacity 0.3s ease 0.7s;
-font-family: "Source Sans Pro", serif;
+font-family: "Source Sans Pro", sans-serif;
 font-weight: 700;
 font-size: 11px;
 color: #909090;
@@ -956,7 +957,7 @@ body.nav-opened .menu-button .word {
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
-    font-family: "Source Sans Pro", serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: #fff;
 }
 
