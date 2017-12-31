@@ -3,17 +3,17 @@ LanguageCode= "en-GB"
 Title= "OpenFaaS Blog"
 paginate = 5
 DisqusShortname = "OpenFaas"
-Copyright = "All rights reserved - 2017"
+Copyright = "All rights reserved - 2018"
 canonifyurls = true
 
 [params]
   description = "OpenFaas Blog"
   metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
   cover = "images/logo.png"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "https://www.openfaas.com"
-  authorbio= "my bio"
+  author = "Alex Ellis"
+  authorlocation = "Peterborough, UK"
+  authorwebsite = "https://blog.alexellis.com"
+  authorbio= "I'm the author of the OpenFaaS Project. I'm best known for my speaking and writing on containers, Linux, Raspberry Pi and open-source software."
   logo = "images/openfaas.png"
   # googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
