@@ -2,6 +2,7 @@
 title: To be
 subtitle: ... or not to be?
 date: 2017-02-13
+image: "https://cdn.pixabay.com/photo/2017/10/20/10/58/elephant-2870777_960_720.jpg"
 ---
 
 To be, or not to be--that is the question:

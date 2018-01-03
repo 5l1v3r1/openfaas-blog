@@ -2,6 +2,12 @@
 title: Code Sample
 subtitle: Using Hugo or Pygments
 date: 2017-03-08
+image: "https://cdn.pixabay.com/photo/2017/12/31/14/44/rope-3052477_960_720.jpg"
+image: "https://images.unsplash.com/photo-1512248805576-c1b31f6fcab1?dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb"
+author: "Will Hall"
+authorbio: "Open Source tinkerer. Digital Architect - whatever that means."
+authorlocation: "Cambridge, UK"
+authorwebsite: "https://www.willhallonline.co.uk"
 tags: ["example", "code"]
 ---
 

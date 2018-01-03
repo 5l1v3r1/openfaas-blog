@@ -2,6 +2,11 @@
 title: Test markdown
 subtitle: Each post also has a subtitle
 date: 2017-02-20
+image: "https://cdn.pixabay.com/photo/2017/12/29/16/34/fruit-3048001_960_720.jpg"
+author: "Will Hall"
+authorbio: "Open Source tinkerer. Digital Architect - whatever that means."
+authorlocation: "Cambridge, UK"
+authorwebsite: "https://www.willhallonline.co.uk"
 tags: ["example", "markdown"]
 ---
 
