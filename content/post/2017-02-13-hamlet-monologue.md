@@ -3,6 +3,11 @@ title: To be
 subtitle: ... or not to be?
 date: 2017-02-13
 image: "https://images.unsplash.com/reserve/Lt0DwxdqRKSQkX7439ey_Chaz_fisheye-11.jpg?dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb"
+author: Alex Ellis
+authoravatar: "https://avatars1.githubusercontent.com/u/6358735?s=460&v=4"
+authorlocation: "Peterborough, UK"
+authorwebsite: "https://blog.alexellis.com"
+authorbio: "I'm the author of the OpenFaaS Project. I'm best known for my speaking and writing on containers, Linux, Raspberry Pi and open-source software."
 ---
 
 To be, or not to be--that is the question:
