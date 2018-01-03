@@ -126,19 +126,19 @@ table { border-collapse: collapse; border-spacing: 0; }
 @font-face {
   font-family: 'Montserrat';
   src: local('Montserrat Light Italic'), local('Montserrat-LightItalic'), url('../fonts/Montserrat/Montserrat-LightItalic.ttf') format('truetype');
-  font-weight: light; font-style: normal;
+  font-weight: light; font-style: italic;
 }
 
 @font-face {
   font-family: 'Montserrat';
   src: local('Montserrat Bold'), local('Montserrat-Bold'), url('../fonts/Montserrat/Merriweather-Bold.ttf') format('truetype');
-  font-weight: light; font-style: normal;
+  font-weight: bold; font-style: normal;
 }
 
 @font-face {
   font-family: 'Montserrat';
   src: local('Montserrat Bold Italic'), local('Montserrat-BoldItalic'), url('../fonts/Montserrat/Montserrat-BoldItalic.ttf') format('truetype');
-  font-weight: light; font-style: normal;
+  font-weight: bold; font-style: italic;
 }
 
 @font-face {
