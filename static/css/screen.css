@@ -106,39 +106,39 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 /* Import the font files */
 @font-face {
-  font-family: 'Open Sans';
-  src: local('Open Sans'), local('OpenSans'), url('../fonts/Open_Sans/OpenSans-Regular.ttf') format('truetype');
+  font-family: 'Source Sans Pro';
+  src: local('Source Sans Pro'), local('SourceSansPro'), url('../fonts/Source_Sans_pro/SourceSansPro-Regular.ttf') format('truetype');
   font-weight: normal; font-style: normal;
 }
 
 @font-face {
-  font-family: 'Open Sans';
-  src: local('Open Sans Bold'), local('OpenSans-Bold'), url('../fonts/Open_Sans/OpenSans-Bold.ttf') format('truetype');
+  font-family: 'Source Sans Pro';
+  src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url('../fonts/Source_Sans_Pro/SourceSansPro-Bold.ttf') format('truetype');
   font-weight: bold; font-style: normal;
 }
 
 @font-face {
-  font-family: 'Merriweather';
-  src: local('Merriweather Light'), local('Merriweather-Light'), url('../fonts/Merriweather/Merriweather-Light.ttf') format('truetype');
+  font-family: 'Montserrat';
+  src: local('Montserrat Light'), local('Montserrat-Light'), url('../fonts/Montserrat/Merriweather-Light.ttf') format('truetype');
   font-weight: light; font-style: normal;
 }
 
 @font-face {
-  font-family: 'Merriweather';
-  src: local('Merriweather Light Italic'), local('Merriweather-LightItalic'), url('../fonts/Merriweather/Merriweather-LightItalic.ttf') format('truetype');
-  font-weight: light; font-style: italic;
+  font-family: 'Montserrat';
+  src: local('Montserrat Light Italic'), local('Montserrat-LightItalic'), url('../fonts/Montserrat/Montserrat-LightItalic.ttf') format('truetype');
+  font-weight: light; font-style: normal;
 }
 
 @font-face {
-  font-family: 'Merriweather';
-  src: local('Merriweather Bold'), local('Merriweather-Bold'), url('../fonts/Merriweather/Merriweather-Bold.ttf') format('truetype');
-  font-weight: bold; font-style: normal;
+  font-family: 'Montserrat';
+  src: local('Montserrat Bold'), local('Montserrat-Bold'), url('../fonts/Montserrat/Merriweather-Bold.ttf') format('truetype');
+  font-weight: light; font-style: normal;
 }
 
 @font-face {
-  font-family: 'Merriweather';
-  src: local('Merriweather Bold Italic'), local('Merriweather-BoldItalic'), url('../fonts/Merriweather/Merriweather-BoldItalic.ttf') format('truetype');
-  font-weight: bold; font-style: italic;
+  font-family: 'Montserrat';
+  src: local('Montserrat Bold Italic'), local('Montserrat-BoldItalic'), url('../fonts/Montserrat/Montserrat-BoldItalic.ttf') format('truetype');
+  font-weight: light; font-style: normal;
 }
 
 @font-face {
@@ -146,9 +146,6 @@ table { border-collapse: collapse; border-spacing: 0; }
   src: local('Inconsolata Regular'), local('Inconsolata-Regular'), url('../fonts/Inconsolata/Inconsolata-Regular.ttf') format('truetype');
   font-weight: normal; font-style: normal;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i');
 
 /* Import the font file with the icons in it */
 @font-face {
