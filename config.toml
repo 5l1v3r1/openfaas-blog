@@ -9,13 +9,13 @@ canonifyurls = true
 [params]
   description = "OpenFaas Blog"
   metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = "http://res.cloudinary.com/willhallonline/image/upload/v1515013847/openfaas_logo_side_lpud6g.png"
+  cover = "http://res.cloudinary.com/willhallonline/image/upload/v1515013847/cover_imnmpo.jpg"
   author = "Alex Ellis"
   authoravatar = "https://avatars1.githubusercontent.com/u/6358735?s=460&v=4"
   authorlocation = "Peterborough, UK"
   authorwebsite = "https://blog.alexellis.com"
   authorbio= "I'm the author of the OpenFaaS Project. I'm best known for my speaking and writing on containers, Linux, Raspberry Pi and open-source software."
-  logo = "http://res.cloudinary.com/willhallonline/image/upload/v1515013847/cover_imnmpo.jpg"
+  logo = "http://res.cloudinary.com/willhallonline/image/upload/v1515013847/openfaas_logo_side_lpud6g.png"
   # googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
