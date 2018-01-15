@@ -7,8 +7,8 @@ Copyright = "All rights reserved - 2018"
 canonifyurls = true
 
 [params]
-  description = "OpenFaas Blog"
-  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  description = "Serverless Functions Made Simple for Docker and Kubernetes"
+  metadescription = "Serverless Functions Made Simple for Docker and Kubernetes"
   cover = "https://res.cloudinary.com/willhallonline/image/upload/v1515013847/cover_imnmpo.jpg"
   author = "Alex Ellis"
   authoravatar = "https://avatars1.githubusercontent.com/u/6358735?s=460&v=4"
