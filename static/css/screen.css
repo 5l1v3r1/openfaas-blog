@@ -588,6 +588,10 @@ body.nav-opened .site-wrapper {
     width: 80%;
 }
 
+#largelogo {
+    max-width: 70%;
+}
+
 .main-header a.bloglogo {
     text-decoration: none;
 }

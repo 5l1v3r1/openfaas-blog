@@ -27,7 +27,7 @@
     <div class="vertical">
         <div class="main-header-content inner">
             {{ if .Site.Params.largelogo }}
-              <a href="{{ .Permalink }}"><img src="{{ .Site.Params.largelogo  | relURL}}" alt="{{ .Site.Title }}" /></a>
+              <a href="{{ .Permalink }}"><img id="largelogo" src="{{ .Site.Params.largelogo  | relURL}}" alt="{{ .Site.Title }}" /></a>
             {{else}}
               <h1 class="page-title">{{ .Site.Title }}</h1>
             {{end}}
