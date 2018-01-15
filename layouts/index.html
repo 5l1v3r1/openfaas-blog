@@ -26,9 +26,13 @@
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            {{ partial "social.html" . }}
-            <h1 class="page-title">{{ .Site.Title }}</h1>
+            {{ if .Site.Params.logo }}
+              <a href="{{ .Permalink }}"><img src="{{ .Site.Params.logo  | relURL}}" alt="{{ .Site.Title }}" /></a>
+            {{else}}
+              <h1 class="page-title">{{ .Site.Title }}</h1>
+            {{end}}
             <h2 class="page-description">{{ .Site.Params.description }}</h2>
+            {{ partial "social.html" . }}
         </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
