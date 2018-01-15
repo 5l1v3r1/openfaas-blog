@@ -26,8 +26,8 @@
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            {{ if .Site.Params.logo }}
-              <a href="{{ .Permalink }}"><img src="{{ .Site.Params.logo  | relURL}}" alt="{{ .Site.Title }}" /></a>
+            {{ if .Site.Params.largelogo }}
+              <a href="{{ .Permalink }}"><img src="{{ .Site.Params.largelogo  | relURL}}" alt="{{ .Site.Title }}" /></a>
             {{else}}
               <h1 class="page-title">{{ .Site.Title }}</h1>
             {{end}}
@@ -41,7 +41,7 @@
 
 <main id="content" class="content" role="main">
 
-<section>
+<section class="post">
     {{.Site.Params.longdescription}}
 </section>
 
