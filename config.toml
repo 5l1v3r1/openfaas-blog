@@ -9,6 +9,7 @@ canonifyurls = true
 [params]
   description = "Serverless Functions Made Simple for Docker and Kubernetes"
   metadescription = "Serverless Functions Made Simple for Docker and Kubernetes"
+  longdescription = "With OpenFaaS you can package anything as a serverless function - from Node.js to Golang to CSharp, even binaries like ffmpeg or ImageMagick. Our core values are: developer first, operational simplicity and community centric."
   cover = "https://res.cloudinary.com/willhallonline/image/upload/v1515013847/cover_imnmpo.jpg"
   author = "Alex Ellis"
   authoravatar = "https://avatars1.githubusercontent.com/u/6358735?s=460&v=4"
@@ -16,6 +17,7 @@ canonifyurls = true
   authorwebsite = "https://blog.alexellis.com"
   authorbio= "I'm the author of the OpenFaaS Project. I'm best known for my speaking and writing on containers, Linux, Raspberry Pi and open-source software."
   logo = "https://res.cloudinary.com/willhallonline/image/upload/v1515013847/openfaas_logo_side_lpud6g.png"
+  largelogo = "images/large_logo.png"
   # googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
