@@ -10,7 +10,7 @@ canonifyurls = true
   description = "Serverless Functions Made Simple for Docker and Kubernetes"
   metadescription = "Serverless Functions Made Simple for Docker and Kubernetes"
   longdescription = "With OpenFaaS you can package anything as a serverless function - from Node.js to Golang to CSharp, even binaries like ffmpeg or ImageMagick. Our core values are: developer first, operational simplicity and community centric."
-  cover = "images/cover.jpg"
+  cover = "images/cover.png"
   author = "Alex Ellis"
   authoravatar = "https://avatars1.githubusercontent.com/u/6358735?s=460&v=4"
   authorlocation = "Peterborough, UK"
