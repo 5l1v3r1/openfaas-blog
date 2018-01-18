@@ -4,16 +4,16 @@ Using:
   * Hugo
   * Casper Theme
 
-Build
+## Build
 
 ```
-docker run --rm -ti -v $(pwd):$(pwd) -w $(pwd) giantswarm/hugo
+docker run --rm -ti -v $(pwd):$(pwd) -w $(pwd) andthensome/alpine-hugo-git-bash hugo
 ```
 
 This will create the site inside the ```public``` directory.
 
-Serve
+## Server
 
 ```
-docker run --rm -ti -v $(pwd):$(pwd) -p 1313:1313 -w $(pwd) giantswarm/hugo server
+docker run --rm -it -v $(pwd):$(pwd) -p 1313:1313 -w $(pwd) andthensome/alpine-hugo-git-bash hugo --bind=0.0.0.0 server
 ```
